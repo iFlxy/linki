@@ -1,2 +1,1 @@
-# linki
-A basic linktree-like website
+https://codepen.io/simeydotme/pen/WNawXQM
